@@ -5,9 +5,9 @@
 @tailwind utilities;
 
 :root {
-  --school-primary: #1e3a5f;
-  --school-secondary: #c9a84c;
-  --school-accent: #e8f0fe;
+  --school-primary: #92288d;
+  --school-secondary: #5a1957;
+  --school-accent: #f3e5f5;
 
   /* Semantic text colors — light surface (default) */
   --text-content: #111827;         /* gray-900 */
@@ -18,10 +18,10 @@
 
 /* Dark surface overrides — apply data-theme="dark" to any dark-bg container */
 [data-theme="dark"] {
-  --text-content: #ffffff;
-  --text-content-body: rgba(255, 255, 255, 0.80);
-  --text-content-muted: rgba(255, 255, 255, 0.60);
-  --text-content-subtle: rgba(255, 255, 255, 0.45);
+  --text-content: #111827;
+  --text-content-body: #374151;
+  --text-content-muted: #6b7280;
+  --text-content-subtle: #9ca3af;
 }
 
 @layer base {
