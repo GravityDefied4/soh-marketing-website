@@ -9,13 +9,13 @@ university:
   address: "Arellano St., Dagupan City, Pangasinan, Philippines"
 
 school:
-  name: "School of Business and Accountancy"
-  abbreviation: "SBA"
-  slug: "sba"
-  tagline: "Superminence, Benevolence, Affluence"
-  description: "The School of Business and Accountancy is committed to producing globally competent graduates equipped with the knowledge, skills, and values needed to thrive in today's dynamic business environment."
-  primaryColor: "#FFDE42"
-  secondaryColor: "#001848"
+  name: "School of Humanities"
+  abbreviation: "SOH"
+  slug: "soh"
+  tagline: "Shape the Future. Understand the Mind. Master the Message."
+  description: "The School of Humanities at Universidad de Dagupan is dedicated to producing empathetic, articulate, and socially responsible professionals in the fields of communication and psychology."
+  primaryColor: "#92288d"
+  secondaryColor: "#5a1957"
 
   # ---------------------------------------------------------------------------
   # SCHOOL LOGO
@@ -31,7 +31,7 @@ school:
 
 # Social media links — paste the full URL or leave as "" to hide the icon.
 socialMedia:
-  facebook: "https://www.facebook.com/SBAUdD"
+  facebook: "https://www.facebook.com/uddsoh"
   instagram: ""
   twitter: ""
   youtube: ""
@@ -40,23 +40,23 @@ socialMedia:
 # STAT HIGHLIGHTS  (shown in the Why Choose Us section on the landing page)
 # ---------------------------------------------------------------------------
 highlights:
-  - title: "Board Exam Excellence"
-    description: "Consistent top performers in the CPA Licensure Examination."
+  - title: "Mental Health Advocacy"
+    description: "Home of the Peer Facilitators' Circle, promoting student well-being."
+    icon: "Heart"
+    stat: "100%"
+    statLabel: "Student Support"
+  - title: "Media Excellence"
+    description: "Award-winning student media practitioners and communication campaigns."
+    icon: "Award"
+    stat: "1st"
+    statLabel: "Regional Awards"
+  - title: "Panther Pride"
+    description: "Fierce competitors and united community in university intramurals."
     icon: "Trophy"
-    stat: "95%"
-    statLabel: "Average Passing Rate"
-  - title: "Industry Partners"
-    description: "Strong linkages with leading companies and accounting firms."
-    icon: "Handshake"
-    stat: "50+"
-    statLabel: "Industry Partners"
-  - title: "Years of Excellence"
-    description: "Decades of producing quality business and accounting graduates."
-    icon: "Star"
-    stat: "40+"
-    statLabel: "Years of Service"
-  - title: "Graduate Employment"
-    description: "High employment rate among graduates within 6 months of graduation."
+    stat: "SOH"
+    statLabel: "Panther Spirit"
+  - title: "Career Ready"
+    description: "Graduates employed in media, HR, clinical settings, and academe."
     icon: "Briefcase"
     stat: "92%"
     statLabel: "Employment Rate"

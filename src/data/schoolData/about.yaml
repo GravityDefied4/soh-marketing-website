@@ -7,9 +7,9 @@
 # DEAN'S MESSAGE
 # ---------------------------------------------------------------------------
 dean:
-  name: "Dr. Maria Santos"
-  title: "Dean, School of Business and Accountancy"
-  message: "Welcome to the School of Business and Accountancy. Our programs are designed to cultivate critical thinking, ethical leadership, and professional excellence. We are proud of our graduates who have made significant contributions to the business and accounting profession both locally and internationally. I invite you to be part of our community of excellence."
+  name: "Ma. Rizza Aquino-Bartolo, RPm"
+  title: "Dean and Guidance Head, School of Humanities"
+  message: "Welcome to the School of Humanities. At UdD, we believe that understanding the human mind and mastering the art of communication are the foundations of meaningful societal change. Our programs are designed to nurture empathy, critical inquiry, and ethical leadership. I invite you to join our vibrant Panther community and turn your passion into purpose."
 
   # HOW TO ADD THE DEAN'S PHOTO:
   #   1. Save the photo inside the "public/images/" folder.
@@ -24,42 +24,40 @@ dean:
 # SCHOOL HISTORY & FUTURE DIRECTION
 # ---------------------------------------------------------------------------
 about:
-  history: "The School of Business and Accountancy was established in 1982 with a vision of producing competent business and accounting professionals who would contribute to the economic development of the region and the nation. From its humble beginnings with only two programs and a handful of faculty members, the school has grown into one of the most respected academic institutions in the region, consistently producing graduates who excel in the fields of accountancy, business management, and finance."
-  future: "The School of Business and Accountancy is committed to continuously evolving its curriculum and programs to meet the demands of the rapidly changing global business environment. We envision a future where our graduates lead in the digital economy, drive sustainable business practices, and contribute to national development through ethical and innovative leadership."
+  history: "The School of Humanities was established to address the growing need for empathetic, articulate, and scientifically grounded professionals in Pangasinan and beyond. From its foundational years, SOH has grown into a hub for mental health advocacy and media excellence, consistently producing graduates who excel in psychology, communication, and human services."
+  future: "SOH is committed to expanding its community-based psychological interventions and digital communication laboratories. We envision a future where our graduates lead in mental health innovation, ethical journalism, and inclusive corporate communication, driving national development through human-centered solutions."
 
   # Vision, mission, and core values
-  vision: "A leading school of business and accountancy that produces globally competent, ethical, and innovative professionals who contribute to sustainable development."
-  mission: "To provide quality business and accountancy education through rigorous academic programs, industry partnerships, research, and community engagement that develop competent, ethical, and socially responsible professionals."
+  vision: "A premier school of humanities in the region, producing empathetic, articulate, and socially responsible professionals who champion mental health and ethical communication."
+  mission: "To provide quality, accessible education in communication and psychology through immersive learning, research, and community engagement, fostering holistic development and ethical leadership."
 
   # Core values — each item needs a title, description, and icon name.
   # Available icons: Star, Shield, Lightbulb, Heart, Award, BookOpen, Users, Target
   coreValues:
-    - title: "Excellence"
-      description: "We pursue the highest standards in academic quality, professional practice, and community service."
-      icon: "Star"
+    - title: "Empathy"
+      description: "We prioritize understanding, compassion, and respect for the human experience in all our interactions."
+      icon: "Heart"
     - title: "Integrity"
-      description: "We uphold honesty, transparency, and ethical conduct in all our endeavors."
+      description: "We uphold truth in media and ethical standards in psychological practice and research."
       icon: "Shield"
     - title: "Innovation"
-      description: "We embrace new ideas, technologies, and approaches to advance business education."
+      description: "We embrace new media technologies and evidence-based psychological approaches."
       icon: "Lightbulb"
     - title: "Service"
-      description: "We are committed to serving our students, institution, and the broader community."
-      icon: "Heart"
+      description: "We are dedicated to uplifting communities through mental health advocacy and accessible communication."
+      icon: "Users"
 
   # Timeline — add or remove milestones as needed. Keep year as a 4-digit string.
   timeline:
-    - year: "1982"
-      event: "School of Business and Accountancy founded with BSA and BSBA programs"
-    - year: "1990"
-      event: "Achieved AACCUP Level I accreditation for the BSA program"
-    - year: "1998"
-      event: "Expanded to include Management Accounting program"
-    - year: "2005"
-      event: "Launched the Master in Business Administration program"
-    - year: "2012"
-      event: "Achieved AACCUP Level IV accreditation — highest level"
-    - year: "2018"
-      event: "Recognized as CHED Center of Development for Accountancy Education"
+    - year: "2008"
+      event: "School of Humanities formally established with BA Communication and BS Psychology programs."
+    - year: "2015"
+      event: "Launch of the SOH Peer Facilitators' Circle for student mental health support."
+    - year: "2019"
+      event: "Opening of the SOH Media Laboratory and Psychology Assessment Center."
     - year: "2023"
-      event: "Launched digital transformation initiative for business education"
+      event: "SOH students win top honors in regional media and psychology case study competitions."
+    - year: "2024"
+      event: "Dean Ma. Rizza Aquino-Bartolo leads university-wide mental health and guidance initiatives."
+    - year: "2025"
+      event: "SOH 'Panthers' dominate university intramurals, showcasing unity and Panther pride."
